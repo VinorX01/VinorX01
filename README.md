@@ -26,4 +26,4 @@
 </div>
 <br>
 
-###### Thank you, <a target="_blank" href="https://icons8.com/icon/20909/html-5">Icons8</a> for the icon package.
+###### Thank you, <a target="_blank" href="https://icons8.com/">Icons8</a> for the icon package.
