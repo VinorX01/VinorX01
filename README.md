@@ -16,13 +16,12 @@
     <img align='center' src='https://img.icons8.com/color/48/null/mysql-logo.png' height='40' width='40'>
     <img align='center' src='https://img.icons8.com/offices/30/null/php-logo.png' height='40' width='40'>
 </div>
-<br>
 
 ### **Contatos**
 <div style='display: inline_block; vertical-align: center;'>
     <b>
-        <a href='https://paginadelinks.com/developers' target='_blank' style='height: 40; color: white; background-color: #0e76a8; padding: 5px; margin-right: 5px; border-radius: 5px; vertical-align: baseline;'><img style='position: relative; top: 4px; left: 0px;' src='https://img.icons8.com/material-sharp/48/ffffff/linkedin--v1.png' height='20' width='20'> LinkedIn</a>
-        <a href='https://paginadelinks.com/developers' target='_blank' style='height: 40; color: white; background-color: #fa372d; padding: 5px; margint: 5px; border-radius: 5px; vertical-align: baseline;'><img style='position: relative; top: 4px; left: 0px;' src='https://img.icons8.com/fluency-systems-filled/48/ffffff/gmail.png' height='20' width='20'> Gmail</a>
+        <a href='https://www.linkedin.com/in/valdivino-rodrigues-31176b193/' target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href='mailto:valdivino.office@gmail.com' target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
     </b>
 </div>
 <br>
