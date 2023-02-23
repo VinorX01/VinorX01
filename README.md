@@ -20,8 +20,8 @@
 ### **Contatos**
 <div style='display: inline_block; vertical-align: center;'>
     <b>
-        <a href='https://www.linkedin.com/in/valdivino-rodrigues-31176b193/' target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href='mailto:valdivino.office@gmail.com' target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+        <a href='https://www.linkedin.com/in/valdivino-rodrigues-31176b193/' target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href='mailto:valdivino.office@gmail.com' target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red"></a>
     </b>
 </div>
 <br>
