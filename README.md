@@ -2,12 +2,12 @@
 
 #### Algumas informações sobre mim:
 - 👨‍🎓 Cursando **Engenharia Mecânica** na UFTM.
-- 📚 Atualmente aprendendo **C++** e **C#**.
-- 🙋‍♂️ Fundador e administrador da comunidade **<a href='https://paginadelinks.com/developers' target='_blank'>ByteXCode</a>** de devs.
+- 📚 Atualmente aprendendo **C++**, **C#** e **Rust**.
+- 🙋‍♂️ Fundador e administrador da comunidade **<a href='https://paginadelinks.com/sudomagidex' target='_blank'>SudoMagidex</a>** de devs.
 - 🚀 Trabalhando em projetos privados.
 - 💬 Áreas de interesse: Eng. Aeroespacial, ciências exatas e inteligência artificial.
 
-### **Linguagens e Frameworks**
+### **Linguagens e Ferramentas**
 <div style='display: inline_block'>
     <img align='center' src='https://img.icons8.com/color/48/null/javascript--v1.png' height='40' width='40'>
     <img align='center' src='https://img.icons8.com/color/48/null/html-5--v1.png' height='40' width='40'>
